@@ -22,8 +22,6 @@ A comprehensive, multi-floor **college network simulation** built with **Cisco P
 - [Simulation File](#simulation-file)
 - [How to Open and Review the Project](#how-to-open-and-review-the-project)
 - [Validation Checklist (Suggested)](#validation-checklist-suggested)
-- [Known Notes](#known-notes)
-- [Team Members](#team-members)
 
 ---
 
